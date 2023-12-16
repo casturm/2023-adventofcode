@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code-2023",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "license": "ISC"
+}

@@ -1,6 +1,6 @@
 import { readFileSync } from 'node:fs'
 
-const data = readFileSync('inputs/day6.txt', 'utf8')
+const data = readFileSyn/c('inputs/day6.txt', 'utf8')
 const lines = data.trimEnd().split('\n')
 
 let times = lines[0].split(':')[1].trim()
